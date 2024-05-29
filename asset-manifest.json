@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aman-app/static/css/main.dc4d6ff2.css",
+    "main.js": "/aman-app/static/js/main.891a7c8f.js",
+    "static/js/453.ed3810f9.chunk.js": "/aman-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/aman-app/index.html",
+    "main.dc4d6ff2.css.map": "/aman-app/static/css/main.dc4d6ff2.css.map",
+    "main.891a7c8f.js.map": "/aman-app/static/js/main.891a7c8f.js.map",
+    "453.ed3810f9.chunk.js.map": "/aman-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.891a7c8f.js"
+  ]
+}
